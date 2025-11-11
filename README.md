@@ -7,7 +7,7 @@ A small Android app that detects and highlights traffic signs using a machine le
 - Overlays detection results on the camera preview.
 - Intended as a simple demo of mobile traffic-sign detection.
 
-## Technologies used (most important)
+## Technologies used
 - Android SDK — platform and APIs for the app.
 - Kotlin — app implementation language.
 - CameraX (or Camera2) — captures camera frames reliably.
