@@ -9,7 +9,7 @@ A small Android app that detects and highlights traffic signs using a machine le
 
 ## Technologies used
 - Android SDK — platform and APIs for the app.
-- Kotlin — app implementation language.
+- C++, Java — app implementation language.
 - CameraX (or Camera2) — captures camera frames reliably.
 - TensorFlow Lite — runs the traffic-sign model on-device.
 
