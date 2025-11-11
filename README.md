@@ -1,4 +1,3 @@
-```
 # SeeTrafficSigns
 
 A small Android app that detects and highlights traffic signs using a machine learning model and the device camera.
@@ -7,6 +6,12 @@ A small Android app that detects and highlights traffic signs using a machine le
 - Streams camera input and identifies common traffic signs.
 - Overlays detection results on the camera preview.
 - Intended as a simple demo of mobile traffic-sign detection.
+
+## Technologies used (most important)
+- Android SDK — platform and APIs for the app.
+- Kotlin — app implementation language.
+- CameraX (or Camera2) — captures camera frames reliably.
+- TensorFlow Lite — runs the traffic-sign model on-device.
 
 ## Quick start
 1. Install Android Studio (and JDK 11+).
@@ -24,4 +29,3 @@ A small Android app that detects and highlights traffic signs using a machine le
 - See LICENSE (if present) for licensing details.
 
 Maintainer: @aarotuohi
-```
